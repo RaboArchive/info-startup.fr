@@ -102,15 +102,12 @@ img {
 }
 	#header h1 {
 		float: left;
-		font-size: 0;
+		font-size: 50px;
 		padding: 36px 24px 0;
 	}
 	#header h1 a {
 		display: block;
-		outline: none;
-		text-indent: -9999px;
 		width: 286px; height: 32px;
-		background: url(images/logo.gif) no-repeat 0 0;
 	}
 	#header .ad468x60 {
 		float: right;
