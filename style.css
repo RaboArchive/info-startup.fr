@@ -102,16 +102,12 @@ img {
 }
 	#header h1 {
 		float: left;
-		font-size: 50px;
+		font-size: 30px;
 		padding: 36px 24px 0;
 	}
 	#header h1 a {
 		display: block;
 		width: 286px; height: 32px;
-	}
-	#header .ad468x60 {
-		float: right;
-		padding: 22px 20px 0;
 	}
 /** END header **/
 
